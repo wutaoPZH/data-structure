@@ -1,0 +1,7 @@
+# SwitchHosts!
+
+# host-0906
+192.168.153.250 www.balance.com
+127.0.0.1 www.eureka7000.com
+127.0.0.1 www.eureka7001.com
+127.0.0.1 www.eureka7002.com
